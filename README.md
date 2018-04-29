@@ -11,4 +11,4 @@
 
 ## 3、聊天室页
 
-![聊天室页](https://github.com/zfowed/myapp/raw/master/screenshots/room.jpg)
+![聊天室页](https://github.com/zfowed/charooms-html/raw/master/screenshots/room.jpg)
