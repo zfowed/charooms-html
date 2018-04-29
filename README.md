@@ -3,11 +3,11 @@
 
 ## 1、登录页
 
-![登录页](https://github.com/zfowed/myapp/raw/master/screenshots/login.jpg)
+![登录页](https://github.com/zfowed/charooms-html/raw/master/screenshots/login.jpg)
 
 ## 2、首页
 
-![首页](https://github.com/zfowed/myapp/raw/master/screenshots/index.jpg)
+![首页](https://github.com/zfowed/charooms-html/raw/master/screenshots/index.jpg)
 
 ## 3、聊天室页
 
