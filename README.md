@@ -1,7 +1,7 @@
 
 该套模板是在N年以前在学校写的，代表了当年的自己最高水准了[捂脸]，支持响应式，使用了 `bootstrap` 框架。
 
-[预览](https://zfowed.github.io/charooms-html/index.html)
+[预览](https://zfowed.github.io/charooms-html/login.html)
 
 ## 1、登录页
 
