@@ -26,7 +26,7 @@ $(document).ready(function(){
 			userName = 'User' + 21275;
 		}
 
-		window.location.href ='/'; // 页面跳转
+		window.location.href ='index.html'; // 页面跳转
 	});
 
 
